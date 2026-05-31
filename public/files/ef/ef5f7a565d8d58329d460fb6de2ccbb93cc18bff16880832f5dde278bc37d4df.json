@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "generated_at": "2026-05-31T15:49:19.385850600Z",
   "payload_blake3": "ef5f7a565d8d58329d460fb6de2ccbb93cc18bff16880832f5dde278bc37d4df",
   "length": 5592496,
   "game_paths": [
     "chara/human/c0501/obj/face/f0003/texture/c0501f0003_etc_mask.tex"
   ],
-  "media_type": "application/vnd.mcdf.texture.v1",
+  "media_type": "image/vnd.ffxiv.texture",
   "metadata": {
     "primary_game_path": "chara/human/c0501/obj/face/f0003/texture/c0501f0003_etc_mask.tex",
     "display_name": "c0501f0003_etc_mask.tex",
@@ -16,10 +16,9 @@
     "preview_supported": true,
     "render_status": "texture_preview_later",
     "metadata_notes": [
-      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity.",
-      "Payload type may support preview rendering in a later client pass."
+      "Client-side normalized metadata derived from MCDF path, extension, length, and BLAKE3 identity."
     ]
   },
   "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:ef5f7a565d8d58329d460fb6de2ccbb93cc18bff16880832f5dde278bc37d4df",
-  "ghcr_digest": "sha256:3323c697b25f65cb74f410ba00832186a1c73000f075211c83aeeb8bf038c18e"
+  "ghcr_digest": null
 }

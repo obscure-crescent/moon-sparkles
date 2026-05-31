@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:49:19.385850600Z",
+  "payload_blake3": "228c6c4118146c99d30b6b669de6a2dcdfc7e330e3ca76615cddbce64c0009b5",
+  "length": 306400,
+  "game_paths": [
+    "chara/xls/bonedeformer/human.pbd"
+  ],
+  "media_type": "application/octet-stream",
+  "metadata": {
+    "primary_game_path": "chara/xls/bonedeformer/human.pbd",
+    "display_name": "human.pbd",
+    "extension": "pbd",
+    "component_kind": "skeleton_or_rig",
+    "size_bytes": 306400,
+    "preview_supported": false,
+    "render_status": "metadata_only",
+    "metadata_notes": [
+      "Client-side normalized metadata derived from MCDF path, extension, length, and BLAKE3 identity."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:228c6c4118146c99d30b6b669de6a2dcdfc7e330e3ca76615cddbce64c0009b5",
+  "ghcr_digest": null
+}

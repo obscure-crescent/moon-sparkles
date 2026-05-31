@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T15:48:54.675519Z",
-  "package_count": 1,
+  "generated_at": "2026-05-31T15:49:19.385850600Z",
+  "package_count": 2,
   "packages": [
+    {
+      "package_hash_blake3": "4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af",
+      "original_filename": "dorbian.mcdf",
+      "description": "",
+      "owner_display_name": "dorbi",
+      "owner_public_id": "dorbi-local",
+      "file_count": 19,
+      "total_file_bytes": 93720789,
+      "component_kinds": [
+        "material",
+        "model",
+        "skeleton_or_rig",
+        "texture"
+      ],
+      "package_manifest_path": "packages/4f/4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af.json",
+      "download_manifest_path": "download-manifests/4f/4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af.json",
+      "updated_at": "2026-05-31T15:49:19.322151200Z"
+    },
     {
       "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
       "original_filename": "dorb_easter.mcdf",

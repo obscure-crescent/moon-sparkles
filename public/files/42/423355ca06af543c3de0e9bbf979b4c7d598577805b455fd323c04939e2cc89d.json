@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:49:19.385850600Z",
+  "payload_blake3": "423355ca06af543c3de0e9bbf979b4c7d598577805b455fd323c04939e2cc89d",
+  "length": 22369700,
+  "game_paths": [
+    "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_d.tex"
+  ],
+  "media_type": "image/vnd.ffxiv.texture",
+  "metadata": {
+    "primary_game_path": "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_d.tex",
+    "display_name": "c0101b0001_b_d.tex",
+    "extension": "tex",
+    "component_kind": "texture",
+    "size_bytes": 22369700,
+    "preview_supported": true,
+    "render_status": "texture_preview_later",
+    "metadata_notes": [
+      "Client-side normalized metadata derived from MCDF path, extension, length, and BLAKE3 identity."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:423355ca06af543c3de0e9bbf979b4c7d598577805b455fd323c04939e2cc89d",
+  "ghcr_digest": null
+}

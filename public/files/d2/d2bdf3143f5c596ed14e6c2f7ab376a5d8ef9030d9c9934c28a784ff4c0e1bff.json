@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "generated_at": "2026-05-31T15:49:19.385850600Z",
   "payload_blake3": "d2bdf3143f5c596ed14e6c2f7ab376a5d8ef9030d9c9934c28a784ff4c0e1bff",
   "length": 262150,
   "game_paths": [
     "chara/equipment/e0279/model/c0101e0279_top.mdl"
   ],
-  "media_type": "application/vnd.mcdf.model.v1",
+  "media_type": "application/vnd.ffxiv.model",
   "metadata": {
     "primary_game_path": "chara/equipment/e0279/model/c0101e0279_top.mdl",
     "display_name": "c0101e0279_top.mdl",
@@ -16,9 +16,9 @@
     "preview_supported": false,
     "render_status": "model_metadata_only",
     "metadata_notes": [
-      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity."
+      "Client-side normalized metadata derived from MCDF path, extension, length, and BLAKE3 identity."
     ]
   },
   "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:d2bdf3143f5c596ed14e6c2f7ab376a5d8ef9030d9c9934c28a784ff4c0e1bff",
-  "ghcr_digest": "sha256:860ad98bbe1e8c2fad98c556ec42e071462b28d5a13417c1efc2b6e7a39971c2"
+  "ghcr_digest": null
 }
