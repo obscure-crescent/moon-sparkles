@@ -1,16 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T17:11:29.911952400Z",
+  "generated_at": "2026-05-31T17:31:21.882303800Z",
   "package_count": 2,
   "packages": [
     {
       "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
       "original_filename": "dorb_easter.mcdf",
-      "title": "Dorbian Eastern Outfit",
+      "title": "Dorbian Eastern",
       "description": "",
-      "tags": [
-        "forest"
-      ],
+      "tags": [],
       "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
       "owner_display_name": "dorbi",
       "owner_public_id": "dorbi-local",
@@ -24,7 +22,7 @@
       ],
       "package_manifest_path": "packages/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
       "download_manifest_path": "download-manifests/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
-      "updated_at": "2026-05-31T17:11:29.834779200Z"
+      "updated_at": "2026-05-31T17:31:21.807563100Z"
     },
     {
       "package_hash_blake3": "4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af",
