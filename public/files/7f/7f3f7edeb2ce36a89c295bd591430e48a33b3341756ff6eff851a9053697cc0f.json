@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "payload_blake3": "7f3f7edeb2ce36a89c295bd591430e48a33b3341756ff6eff851a9053697cc0f",
+  "length": 349616,
+  "game_paths": [
+    "chara/common/texture/eye/eye01_mask.tex"
+  ],
+  "media_type": "application/vnd.mcdf.texture.v1",
+  "metadata": {
+    "primary_game_path": "chara/common/texture/eye/eye01_mask.tex",
+    "display_name": "eye01_mask.tex",
+    "extension": "tex",
+    "component_kind": "texture",
+    "size_bytes": 349616,
+    "preview_supported": true,
+    "render_status": "texture_preview_later",
+    "metadata_notes": [
+      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity.",
+      "Payload type may support preview rendering in a later client pass."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:7f3f7edeb2ce36a89c295bd591430e48a33b3341756ff6eff851a9053697cc0f",
+  "ghcr_digest": "sha256:44f9ea773c631b5fd8ecbc97f3a1e005cb9353dd5452f85eab742dfc6c66fad2"
+}

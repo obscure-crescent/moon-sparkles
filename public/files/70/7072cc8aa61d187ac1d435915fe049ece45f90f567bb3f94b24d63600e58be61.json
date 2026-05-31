@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "payload_blake3": "7072cc8aa61d187ac1d435915fe049ece45f90f567bb3f94b24d63600e58be61",
+  "length": 3088,
+  "game_paths": [
+    "chara/human/c0501/skeleton/base/b0001/eid_c0501b0001.eid"
+  ],
+  "media_type": "application/vnd.mcdf.file.v1",
+  "metadata": {
+    "primary_game_path": "chara/human/c0501/skeleton/base/b0001/eid_c0501b0001.eid",
+    "display_name": "eid_c0501b0001.eid",
+    "extension": "eid",
+    "component_kind": "skeleton_or_rig",
+    "size_bytes": 3088,
+    "preview_supported": false,
+    "render_status": "metadata_only",
+    "metadata_notes": [
+      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:7072cc8aa61d187ac1d435915fe049ece45f90f567bb3f94b24d63600e58be61",
+  "ghcr_digest": "sha256:cb19e8bb41ea550bc6a509a6de6e38c3ff1667240fdd0744b44e6e58165157f8"
+}

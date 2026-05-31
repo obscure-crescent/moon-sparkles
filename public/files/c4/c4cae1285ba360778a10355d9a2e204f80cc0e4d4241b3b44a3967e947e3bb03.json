@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "payload_blake3": "c4cae1285ba360778a10355d9a2e204f80cc0e4d4241b3b44a3967e947e3bb03",
+  "length": 349616,
+  "game_paths": [
+    "chara/common/texture/eye/eye01_norm.tex"
+  ],
+  "media_type": "application/vnd.mcdf.texture.v1",
+  "metadata": {
+    "primary_game_path": "chara/common/texture/eye/eye01_norm.tex",
+    "display_name": "eye01_norm.tex",
+    "extension": "tex",
+    "component_kind": "texture",
+    "size_bytes": 349616,
+    "preview_supported": true,
+    "render_status": "texture_preview_later",
+    "metadata_notes": [
+      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity.",
+      "Payload type may support preview rendering in a later client pass."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:c4cae1285ba360778a10355d9a2e204f80cc0e4d4241b3b44a3967e947e3bb03",
+  "ghcr_digest": "sha256:a07b49f990cabf12620611c3a204a493b7c16d568d13fdee7fb8e89b7ac1bf0f"
+}

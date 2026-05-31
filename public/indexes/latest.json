@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "package_count": 1,
+  "packages": [
+    {
+      "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
+      "original_filename": "dorb_easter.mcdf",
+      "description": "",
+      "owner_display_name": "dorbi",
+      "owner_public_id": "dorbi-local",
+      "file_count": 18,
+      "total_file_bytes": 42937002,
+      "component_kinds": [
+        "material",
+        "model",
+        "skeleton_or_rig",
+        "texture"
+      ],
+      "package_manifest_path": "packages/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
+      "download_manifest_path": "download-manifests/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
+      "updated_at": "2026-05-31T08:51:28.027070700Z"
+    }
+  ]
+}

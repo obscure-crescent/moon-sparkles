@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "publisher_count": 2,
+  "publishers": [
+    {
+      "schema_version": 1,
+      "publisher_id": "dorbi-local",
+      "username": null,
+      "display_name": "dorbi",
+      "public_key": null,
+      "certificate": null,
+      "status": "active",
+      "source": "public_index_summary",
+      "created_at": "2026-05-31T15:48:54.675519Z",
+      "updated_at": "2026-05-31T15:48:54.675519Z",
+      "notes": [
+        "identity_path=publishers/dorbi-local.json",
+        "package_count=1"
+      ]
+    },
+    {
+      "schema_version": 1,
+      "publisher_id": "dorbian",
+      "username": "dorbian",
+      "display_name": "Dorbian",
+      "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuiL6YcMY016eYchF8wZ8x++PuT2MDmKnRct8NxI8hz1z2jB8BaSj5z+uZHkC3dWnl6ZF8wMRhg5qXzQ/qwpjIg==",
+      "certificate": null,
+      "status": "certified",
+      "source": "public_index_summary",
+      "created_at": "2026-05-31T15:48:54.675519Z",
+      "updated_at": "2026-05-31T15:48:54.675519Z",
+      "notes": [
+        "identity_path=publishers/dorbian.json",
+        "package_count=0"
+      ]
+    }
+  ]
+}

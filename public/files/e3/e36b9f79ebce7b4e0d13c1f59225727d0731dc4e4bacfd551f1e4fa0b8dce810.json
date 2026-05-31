@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "payload_blake3": "e36b9f79ebce7b4e0d13c1f59225727d0731dc4e4bacfd551f1e4fa0b8dce810",
+  "length": 516,
+  "game_paths": [
+    "chara/human/c0101/obj/body/b0001/material/v0001/mt_c0101b0001_b.mtrl"
+  ],
+  "media_type": "application/vnd.mcdf.material.v1",
+  "metadata": {
+    "primary_game_path": "chara/human/c0101/obj/body/b0001/material/v0001/mt_c0101b0001_b.mtrl",
+    "display_name": "mt_c0101b0001_b.mtrl",
+    "extension": "mtrl",
+    "component_kind": "material",
+    "size_bytes": 516,
+    "preview_supported": false,
+    "render_status": "material_metadata_only",
+    "metadata_notes": [
+      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:e36b9f79ebce7b4e0d13c1f59225727d0731dc4e4bacfd551f1e4fa0b8dce810",
+  "ghcr_digest": "sha256:b1b12123c19fd4c9d2bd6bea58a7355a5f465942f4d8e77eb4cd6d584b9f0a33"
+}

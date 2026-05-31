@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "publisher_id": "dorbian",
+  "username": "dorbian",
+  "display_name": "Dorbian",
+  "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuiL6YcMY016eYchF8wZ8x++PuT2MDmKnRct8NxI8hz1z2jB8BaSj5z+uZHkC3dWnl6ZF8wMRhg5qXzQ/qwpjIg==",
+  "certificate": "-----BEGIN MCDF PUBLISHER CERTIFICATE-----\n{\n  \"schema_version\": 1,\n  \"certificate_id\": \"3b8229f12db8cfb6db074762d3b73c8d7e54946588b10ea125327bfd411baabe\",\n  \"ca_id\": \"mcdf-ca-c7e1f56eadcb6ea9\",\n  \"publisher_id\": \"dorbian\",\n  \"username\": \"dorbian\",\n  \"display_name\": \"Dorbian\",\n  \"public_key\": \"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuiL6YcMY016eYchF8wZ8x++PuT2MDmKnRct8NxI8hz1z2jB8BaSj5z+uZHkC3dWnl6ZF8wMRhg5qXzQ/qwpjIg==\",\n  \"issued_at\": \"2026-05-31T15:48:54.604167100Z\",\n  \"expires_at\": \"2056-05-23T13:06:33.057757500Z\",\n  \"signature\": \"baf7aa3d3b05964f6b7d95a2cdb0bc4027e6ef94366f795f61af0480e144719f\"\n}\n-----END MCDF PUBLISHER CERTIFICATE-----\n",
+  "status": "certified",
+  "source": "server_ca_issued_client_certificate",
+  "created_at": "2026-05-31T15:48:54.604167100Z",
+  "updated_at": "2026-05-31T15:48:54.604167100Z",
+  "notes": [
+    "Publisher certificate 3b8229f12db8cfb6db074762d3b73c8d7e54946588b10ea125327bfd411baabe was issued by archive CA mcdf-ca-c7e1f56eadcb6ea9.",
+    "Certificate expires with the archive CA at 2056-05-23T13:06:33.057757500+00:00.",
+    "The client private key remains local; the server stores the username, public key, and issued publisher certificate.",
+    "The public publisher identity is exported to the Git-backed index so packages can be attributed and verified later."
+  ]
+}

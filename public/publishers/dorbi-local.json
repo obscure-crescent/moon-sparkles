@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "publisher_id": "dorbi-local",
+  "username": null,
+  "display_name": "dorbi",
+  "public_key": null,
+  "certificate": null,
+  "status": "active",
+  "source": "local_owner_config",
+  "created_at": "2026-05-31T11:56:56.307229500Z",
+  "updated_at": "2026-05-31T11:56:56.307229500Z",
+  "notes": [
+    "Generated from local server owner config. Register a client public key to bind this publisher identity to a client keypair."
+  ]
+}

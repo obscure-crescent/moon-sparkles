@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "payload_blake3": "87554e3232c726530824a73ee1ef05f6709af710acb56082a094443349cf3ac0",
+  "length": 2796320,
+  "game_paths": [
+    "chara/human/c0501/obj/face/f0001/texture/c0501f0001_fac_mask.tex"
+  ],
+  "media_type": "application/vnd.mcdf.texture.v1",
+  "metadata": {
+    "primary_game_path": "chara/human/c0501/obj/face/f0001/texture/c0501f0001_fac_mask.tex",
+    "display_name": "c0501f0001_fac_mask.tex",
+    "extension": "tex",
+    "component_kind": "texture",
+    "size_bytes": 2796320,
+    "preview_supported": true,
+    "render_status": "texture_preview_later",
+    "metadata_notes": [
+      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity.",
+      "Payload type may support preview rendering in a later client pass."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:87554e3232c726530824a73ee1ef05f6709af710acb56082a094443349cf3ac0",
+  "ghcr_digest": "sha256:c614c2138e8fe7341c3e8244e1bcb332cdd1f3f2406c8fc8c0e1e59c3980ca22"
+}

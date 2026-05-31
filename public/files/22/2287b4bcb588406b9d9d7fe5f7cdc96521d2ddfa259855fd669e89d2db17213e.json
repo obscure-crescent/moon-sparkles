@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31T15:48:54.675519Z",
+  "payload_blake3": "2287b4bcb588406b9d9d7fe5f7cdc96521d2ddfa259855fd669e89d2db17213e",
+  "length": 5592512,
+  "game_paths": [
+    "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_n.tex"
+  ],
+  "media_type": "application/vnd.mcdf.texture.v1",
+  "metadata": {
+    "primary_game_path": "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_n.tex",
+    "display_name": "c0101b0001_b_n.tex",
+    "extension": "tex",
+    "component_kind": "texture",
+    "size_bytes": 5592512,
+    "preview_supported": true,
+    "render_status": "texture_preview_later",
+    "metadata_notes": [
+      "Metadata is normalized by the MCDF archive server from path, extension, length, and BLAKE3 identity.",
+      "Payload type may support preview rendering in a later client pass."
+    ]
+  },
+  "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:2287b4bcb588406b9d9d7fe5f7cdc96521d2ddfa259855fd669e89d2db17213e",
+  "ghcr_digest": "sha256:3ece5005d61a9f541d1367301a925e21994b9105e0c3c12094db59f274559c29"
+}
