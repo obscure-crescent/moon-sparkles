@@ -1,16 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T15:49:19.385850600Z",
+  "generated_at": "2026-05-31T17:11:29.911952400Z",
   "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
   "original_filename": "dorb_easter.mcdf",
+  "title": "Dorbian Eastern Outfit",
   "description": "",
+  "tags": [
+    "forest"
+  ],
+  "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
   "owner": {
     "display_name": "dorbi",
     "public_id": "dorbi-local"
   },
   "parser_revision": 10,
-  "parser_status": "extracted_full_files",
-  "rebuild_strategy": "rebuild_from_extracted_full_files_with_envelope",
+  "parser_status": "client_extracted_full_files",
+  "rebuild_strategy": "client_extracted_rebuild_from_full_file_artifacts",
   "container_encoding": "k4os_lz4_legacy",
   "exact_rebuild": {
     "mcdf_offset": 0,
@@ -38,11 +43,11 @@
       "game_paths": [
         "chara/human/c0501/skeleton/base/b0001/eid_c0501b0001.eid"
       ],
-      "media_type": "application/vnd.mcdf.file.v1",
+      "media_type": "application/vnd.ffxiv.eid",
       "component_kind": "skeleton_or_rig",
       "display_name": "eid_c0501b0001.eid",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:7072cc8aa61d187ac1d435915fe049ece45f90f567bb3f94b24d63600e58be61",
-      "ghcr_digest": "sha256:cb19e8bb41ea550bc6a509a6de6e38c3ff1667240fdd0744b44e6e58165157f8",
+      "ghcr_digest": null,
       "file_metadata_path": "files/70/7072cc8aa61d187ac1d435915fe049ece45f90f567bb3f94b24d63600e58be61.json"
     },
     {
@@ -52,11 +57,11 @@
       "game_paths": [
         "chara/common/texture/eye/eye01_mask.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "eye01_mask.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:7f3f7edeb2ce36a89c295bd591430e48a33b3341756ff6eff851a9053697cc0f",
-      "ghcr_digest": "sha256:44f9ea773c631b5fd8ecbc97f3a1e005cb9353dd5452f85eab742dfc6c66fad2",
+      "ghcr_digest": null,
       "file_metadata_path": "files/7f/7f3f7edeb2ce36a89c295bd591430e48a33b3341756ff6eff851a9053697cc0f.json"
     },
     {
@@ -66,11 +71,11 @@
       "game_paths": [
         "chara/common/texture/eye/eye01_norm.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "eye01_norm.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:c4cae1285ba360778a10355d9a2e204f80cc0e4d4241b3b44a3967e947e3bb03",
-      "ghcr_digest": "sha256:a07b49f990cabf12620611c3a204a493b7c16d568d13fdee7fb8e89b7ac1bf0f",
+      "ghcr_digest": null,
       "file_metadata_path": "files/c4/c4cae1285ba360778a10355d9a2e204f80cc0e4d4241b3b44a3967e947e3bb03.json"
     },
     {
@@ -80,11 +85,11 @@
       "game_paths": [
         "chara/common/texture/eye/eyelids_shadow.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "eyelids_shadow.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:11f5c3a6d42c9fc7f223a92ea5da87c012053bd0d17aa21dee71c1f61318e247",
-      "ghcr_digest": "sha256:74093e5732015da7f139f0c776ddba738d1b5eb5f07f730856f25888074f153a",
+      "ghcr_digest": null,
       "file_metadata_path": "files/11/11f5c3a6d42c9fc7f223a92ea5da87c012053bd0d17aa21dee71c1f61318e247.json"
     },
     {
@@ -94,11 +99,11 @@
       "game_paths": [
         "chara/human/c0501/obj/face/f0001/texture/c0501f0001_fac_mask.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0501f0001_fac_mask.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:87554e3232c726530824a73ee1ef05f6709af710acb56082a094443349cf3ac0",
-      "ghcr_digest": "sha256:c614c2138e8fe7341c3e8244e1bcb332cdd1f3f2406c8fc8c0e1e59c3980ca22",
+      "ghcr_digest": null,
       "file_metadata_path": "files/87/87554e3232c726530824a73ee1ef05f6709af710acb56082a094443349cf3ac0.json"
     },
     {
@@ -108,11 +113,11 @@
       "game_paths": [
         "chara/human/c0501/obj/face/f0003/texture/c0501f0003_etc_mask.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0501f0003_etc_mask.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:ef5f7a565d8d58329d460fb6de2ccbb93cc18bff16880832f5dde278bc37d4df",
-      "ghcr_digest": "sha256:3323c697b25f65cb74f410ba00832186a1c73000f075211c83aeeb8bf038c18e",
+      "ghcr_digest": null,
       "file_metadata_path": "files/ef/ef5f7a565d8d58329d460fb6de2ccbb93cc18bff16880832f5dde278bc37d4df.json"
     },
     {
@@ -122,11 +127,11 @@
       "game_paths": [
         "chara/human/c0501/obj/face/f0003/texture/c0501f0003_etc_norm.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0501f0003_etc_norm.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:f3c3a6dd7ff7b7e7f6167cfb87906f7734684b9dc9b7b6cf2f45962ddac6a5c8",
-      "ghcr_digest": "sha256:50bc3b3aecca8fec237d1b67649b530fd9266ebff1baa6926f94d8c3e1da7025",
+      "ghcr_digest": null,
       "file_metadata_path": "files/f3/f3c3a6dd7ff7b7e7f6167cfb87906f7734684b9dc9b7b6cf2f45962ddac6a5c8.json"
     },
     {
@@ -136,11 +141,11 @@
       "game_paths": [
         "chara/human/c0501/obj/face/f0003/texture/c0501f0003_fac_base.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0501f0003_fac_base.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:c2d9c331dd31a8727d6a43bfbdca49f6a3bb5ecbaa3b989f36e9ea14a28d760a",
-      "ghcr_digest": "sha256:29650a41c296af054634c37e5f6e792cb1829a96ab7cbcd5559c3b902cf06f28",
+      "ghcr_digest": null,
       "file_metadata_path": "files/c2/c2d9c331dd31a8727d6a43bfbdca49f6a3bb5ecbaa3b989f36e9ea14a28d760a.json"
     },
     {
@@ -150,11 +155,11 @@
       "game_paths": [
         "chara/equipment/e0279/model/c0101e0279_top.mdl"
       ],
-      "media_type": "application/vnd.mcdf.model.v1",
+      "media_type": "application/vnd.ffxiv.model",
       "component_kind": "model",
       "display_name": "c0101e0279_top.mdl",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:d2bdf3143f5c596ed14e6c2f7ab376a5d8ef9030d9c9934c28a784ff4c0e1bff",
-      "ghcr_digest": "sha256:860ad98bbe1e8c2fad98c556ec42e071462b28d5a13417c1efc2b6e7a39971c2",
+      "ghcr_digest": null,
       "file_metadata_path": "files/d2/d2bdf3143f5c596ed14e6c2f7ab376a5d8ef9030d9c9934c28a784ff4c0e1bff.json"
     },
     {
@@ -164,11 +169,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/texture/c0101b0001_s.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0101b0001_s.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:1b9190dae8873d58efc78e507ac91d8e60f9c1b2d504bbd82bdf9b3eb2241636",
-      "ghcr_digest": "sha256:472ab7e5a20d3bc715e6a1a3053bd4f941fdc390eb0756bb0b041ad7823d3816",
+      "ghcr_digest": null,
       "file_metadata_path": "files/1b/1b9190dae8873d58efc78e507ac91d8e60f9c1b2d504bbd82bdf9b3eb2241636.json"
     },
     {
@@ -178,11 +183,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_s.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0101b0001_b_s.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:091bae23148b4ed923cc4610942d40a034d9d324d81c42f55c01ff1f466dbc84",
-      "ghcr_digest": "sha256:3a2ff75282a7e3426d1250c12e377d59698ff10f27d98185ede96bc2d87dc124",
+      "ghcr_digest": null,
       "file_metadata_path": "files/09/091bae23148b4ed923cc4610942d40a034d9d324d81c42f55c01ff1f466dbc84.json"
     },
     {
@@ -192,11 +197,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/texture/c0101b0001_n.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0101b0001_n.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:849938e7005d0c96c08c60b7238743a1b1943655372bfffe2804b8e8c6ad09bc",
-      "ghcr_digest": "sha256:b1adff7b589f59627a05118ba6132ba29208441c3d64668ef51fd581959413b4",
+      "ghcr_digest": null,
       "file_metadata_path": "files/84/849938e7005d0c96c08c60b7238743a1b1943655372bfffe2804b8e8c6ad09bc.json"
     },
     {
@@ -206,11 +211,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_n.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0101b0001_b_n.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:2287b4bcb588406b9d9d7fe5f7cdc96521d2ddfa259855fd669e89d2db17213e",
-      "ghcr_digest": "sha256:3ece5005d61a9f541d1367301a925e21994b9105e0c3c12094db59f274559c29",
+      "ghcr_digest": null,
       "file_metadata_path": "files/22/2287b4bcb588406b9d9d7fe5f7cdc96521d2ddfa259855fd669e89d2db17213e.json"
     },
     {
@@ -220,11 +225,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/material/v0001/mt_c0101b0001_a.mtrl"
       ],
-      "media_type": "application/vnd.mcdf.material.v1",
+      "media_type": "application/vnd.ffxiv.material",
       "component_kind": "material",
       "display_name": "mt_c0101b0001_a.mtrl",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:fff222dbd6c7fb13b4ecb730d8c16de55d24ec73156fadd3bc93e83aac50a9b2",
-      "ghcr_digest": "sha256:8e4f9151b180e9cd860999a76bf3cc114ad864e0f982d8f9f59c2c647b3ec656",
+      "ghcr_digest": null,
       "file_metadata_path": "files/ff/fff222dbd6c7fb13b4ecb730d8c16de55d24ec73156fadd3bc93e83aac50a9b2.json"
     },
     {
@@ -234,11 +239,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/material/v0001/mt_c0101b0001_b.mtrl"
       ],
-      "media_type": "application/vnd.mcdf.material.v1",
+      "media_type": "application/vnd.ffxiv.material",
       "component_kind": "material",
       "display_name": "mt_c0101b0001_b.mtrl",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:e36b9f79ebce7b4e0d13c1f59225727d0731dc4e4bacfd551f1e4fa0b8dce810",
-      "ghcr_digest": "sha256:b1b12123c19fd4c9d2bd6bea58a7355a5f465942f4d8e77eb4cd6d584b9f0a33",
+      "ghcr_digest": null,
       "file_metadata_path": "files/e3/e36b9f79ebce7b4e0d13c1f59225727d0731dc4e4bacfd551f1e4fa0b8dce810.json"
     },
     {
@@ -248,11 +253,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/texture/c0101b0001_b_d.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0101b0001_b_d.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:d739349ee7f82fd461efa52524f807d947d1d2b846d584c27b6adbcb92c9346a",
-      "ghcr_digest": "sha256:450f40972fb1e512345bf90a08983c7c805d2f97c77b86743c6070b3fb721579",
+      "ghcr_digest": null,
       "file_metadata_path": "files/d7/d739349ee7f82fd461efa52524f807d947d1d2b846d584c27b6adbcb92c9346a.json"
     },
     {
@@ -262,11 +267,11 @@
       "game_paths": [
         "chara/human/c0101/obj/body/b0001/texture/c0101b0001_d.tex"
       ],
-      "media_type": "application/vnd.mcdf.texture.v1",
+      "media_type": "image/vnd.ffxiv.texture",
       "component_kind": "texture",
       "display_name": "c0101b0001_d.tex",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:92c0cca8ed4d1255121ad4e110f171c7cdc09ef66b2422a3f92f643d3a7b0fb0",
-      "ghcr_digest": "sha256:5e7b6cbc90f5919be16237c02b56b5080dc2655ed1b7f01f1e1e54800dfb25c5",
+      "ghcr_digest": null,
       "file_metadata_path": "files/92/92c0cca8ed4d1255121ad4e110f171c7cdc09ef66b2422a3f92f643d3a7b0fb0.json"
     },
     {
@@ -276,11 +281,11 @@
       "game_paths": [
         "chara/human/c0501/obj/body/b0002/model/c0501b0002_top.mdl"
       ],
-      "media_type": "application/vnd.mcdf.model.v1",
+      "media_type": "application/vnd.ffxiv.model",
       "component_kind": "model",
       "display_name": "c0501b0002_top.mdl",
       "ghcr_ref": "ghcr.io/obscure-crescent/mcdf-file-parts:362000be361a51e9c3529e211c07228065ba03eeef31de08ce81c8856a157174",
-      "ghcr_digest": "sha256:77b85ac0d1e612b9d1a46ce639fb6115010b10bb128f9b71493c18a732187204",
+      "ghcr_digest": null,
       "file_metadata_path": "files/36/362000be361a51e9c3529e211c07228065ba03eeef31de08ce81c8856a157174.json"
     }
   ],
