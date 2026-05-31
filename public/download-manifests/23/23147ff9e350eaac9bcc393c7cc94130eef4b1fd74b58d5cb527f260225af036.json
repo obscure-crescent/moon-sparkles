@@ -1,12 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T17:42:54.939954100Z",
+  "generated_at": "2026-05-31T20:42:01.440348Z",
   "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
   "original_filename": "dorb_easter.mcdf",
   "title": "Dorbian Eastern",
   "description": "",
-  "tags": [],
+  "tags": [
+    "dorbian",
+    "eastern"
+  ],
   "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
+  "is_adult": false,
   "owner": {
     "display_name": "dorbi",
     "public_id": "dorbi-local"
