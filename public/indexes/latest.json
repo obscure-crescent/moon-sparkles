@@ -1,54 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T20:42:01.440348Z",
-  "package_count": 2,
-  "packages": [
-    {
-      "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
-      "original_filename": "dorb_easter.mcdf",
-      "title": "Dorbian Eastern",
-      "description": "",
-      "tags": [
-        "dorbian",
-        "eastern"
-      ],
-      "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
-      "is_adult": false,
-      "owner_display_name": "dorbi",
-      "owner_public_id": "dorbi-local",
-      "file_count": 18,
-      "total_file_bytes": 42937002,
-      "component_kinds": [
-        "material",
-        "model",
-        "skeleton_or_rig",
-        "texture"
-      ],
-      "package_manifest_path": "packages/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
-      "download_manifest_path": "download-manifests/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
-      "updated_at": "2026-05-31T20:42:00.966924300Z"
-    },
-    {
-      "package_hash_blake3": "4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af",
-      "original_filename": "dorbian.mcdf",
-      "title": "dorbian",
-      "description": "",
-      "tags": [],
-      "preview_image_path": null,
-      "is_adult": false,
-      "owner_display_name": "dorbi",
-      "owner_public_id": "dorbi-local",
-      "file_count": 19,
-      "total_file_bytes": 93720789,
-      "component_kinds": [
-        "material",
-        "model",
-        "skeleton_or_rig",
-        "texture"
-      ],
-      "package_manifest_path": "packages/4f/4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af.json",
-      "download_manifest_path": "download-manifests/4f/4fb3d7b4dd996272a2e9e72033876eca03cfa594f56e6c2e4eacaf4052b104af.json",
-      "updated_at": "2026-05-31T15:49:19.322151200Z"
-    }
-  ]
+  "generated_at": "2026-06-02T19:31:30.132761500Z",
+  "package_count": 0,
+  "packages": []
 }
