@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "publisher_id": "local-user",
+  "username": "local-user",
+  "display_name": "Local User",
+  "public_key": null,
+  "certificate": null,
+  "status": "uncertified",
+  "source": "local_owner_config",
+  "created_at": "2026-06-07T17:01:07.084305724Z",
+  "updated_at": "2026-06-07T17:01:07.084305724Z",
+  "notes": [
+    "Generated from local server owner config. Use the client certificate flow to bind this publisher identity to a client keypair through the server CA."
+  ]
+}

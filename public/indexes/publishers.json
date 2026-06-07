@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-02T19:31:30.132761500Z",
-  "publisher_count": 2,
+  "generated_at": "2026-06-07T19:19:16.195554355Z",
+  "publisher_count": 3,
   "publishers": [
     {
       "schema_version": 1,
@@ -12,8 +12,8 @@
       "certificate": null,
       "status": "active",
       "source": "public_index_summary",
-      "created_at": "2026-06-02T19:31:30.132761500Z",
-      "updated_at": "2026-06-02T19:31:30.132761500Z",
+      "created_at": "2026-06-07T19:19:16.195554355Z",
+      "updated_at": "2026-06-07T19:19:16.195554355Z",
       "notes": [
         "identity_path=publishers/dorbi-local.json",
         "package_count=0"
@@ -28,10 +28,26 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-06-02T19:31:30.132761500Z",
-      "updated_at": "2026-06-02T19:31:30.132761500Z",
+      "created_at": "2026-06-07T19:19:16.195554355Z",
+      "updated_at": "2026-06-07T19:19:16.195554355Z",
       "notes": [
         "identity_path=publishers/dorbian.json",
+        "package_count=1"
+      ]
+    },
+    {
+      "schema_version": 1,
+      "publisher_id": "local-user",
+      "username": "local-user",
+      "display_name": "Local User",
+      "public_key": null,
+      "certificate": null,
+      "status": "uncertified",
+      "source": "public_index_summary",
+      "created_at": "2026-06-07T19:19:16.195554355Z",
+      "updated_at": "2026-06-07T19:19:16.195554355Z",
+      "notes": [
+        "identity_path=publishers/local-user.json",
         "package_count=0"
       ]
     }

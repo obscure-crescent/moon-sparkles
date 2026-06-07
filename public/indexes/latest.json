@@ -1,6 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-02T19:31:30.132761500Z",
-  "package_count": 0,
-  "packages": []
+  "generated_at": "2026-06-07T19:19:16.195554355Z",
+  "package_count": 1,
+  "packages": [
+    {
+      "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
+      "original_filename": "dorb_easter.mcdf",
+      "title": "Elfoween",
+      "description": "",
+      "tags": [],
+      "preview_image_available": true,
+      "preview_image_path": null,
+      "is_adult": false,
+      "visibility": "public",
+      "owner_display_name": "Dorbian",
+      "owner_public_id": "dorbian",
+      "file_count": 18,
+      "total_file_bytes": 42937002,
+      "component_kinds": [
+        "material",
+        "model",
+        "skeleton_or_rig",
+        "texture"
+      ],
+      "package_manifest_path": "packages/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
+      "download_manifest_path": "download-manifests/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
+      "updated_at": "2026-06-07T19:19:16.160455010Z"
+    }
+  ]
 }

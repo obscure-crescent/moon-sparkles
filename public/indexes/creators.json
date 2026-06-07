@@ -1,13 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-02T19:31:30.132761500Z",
-  "creator_count": 2,
+  "generated_at": "2026-06-07T19:19:16.195554355Z",
+  "creator_count": 3,
   "creators": [
     {
       "publisher_id": "dorbian",
       "display_name": "Dorbian",
       "username": "dorbian",
       "profile_path": "creators/dorbian/profile.json",
+      "package_count": 1,
+      "tags": []
+    },
+    {
+      "publisher_id": "local-user",
+      "display_name": "Local User",
+      "username": "local-user",
+      "profile_path": "creators/local-user/profile.json",
       "package_count": 0,
       "tags": []
     },
