@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T12:54:06.677613100Z",
-  "publisher_count": 3,
+  "generated_at": "2026-06-08T13:10:45.213305340Z",
+  "publisher_count": 4,
   "publishers": [
     {
       "schema_version": 1,
@@ -12,8 +12,8 @@
       "certificate": null,
       "status": "active",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T12:54:06.677613100Z",
-      "updated_at": "2026-06-08T12:54:06.677613100Z",
+      "created_at": "2026-06-08T13:10:45.213305340Z",
+      "updated_at": "2026-06-08T13:10:45.213305340Z",
       "notes": [
         "identity_path=publishers/dorbi-local.json",
         "package_count=0"
@@ -28,11 +28,27 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T12:54:06.677613100Z",
-      "updated_at": "2026-06-08T12:54:06.677613100Z",
+      "created_at": "2026-06-08T13:10:45.213305340Z",
+      "updated_at": "2026-06-08T13:10:45.213305340Z",
       "notes": [
         "identity_path=publishers/dorbian.json",
         "package_count=1"
+      ]
+    },
+    {
+      "schema_version": 1,
+      "publisher_id": "iferniton",
+      "username": "iferniton",
+      "display_name": "Iferniton",
+      "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETlOfWTzheCiS1LPH7qgw3CrDV4Lwlt5MH+tKiGR42yWECKY/TJ3c5yvl6OdpuM98rmYzHUNBVEaqBilhIVRP6Q==",
+      "certificate": null,
+      "status": "certified",
+      "source": "public_index_summary",
+      "created_at": "2026-06-08T13:10:45.213305340Z",
+      "updated_at": "2026-06-08T13:10:45.213305340Z",
+      "notes": [
+        "identity_path=publishers/iferniton.json",
+        "package_count=0"
       ]
     },
     {
@@ -44,8 +60,8 @@
       "certificate": null,
       "status": "uncertified",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T12:54:06.677613100Z",
-      "updated_at": "2026-06-08T12:54:06.677613100Z",
+      "created_at": "2026-06-08T13:10:45.213305340Z",
+      "updated_at": "2026-06-08T13:10:45.213305340Z",
       "notes": [
         "identity_path=publishers/local-user.json",
         "package_count=0"

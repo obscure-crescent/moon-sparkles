@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T12:54:06.677613100Z",
-  "creator_count": 3,
+  "generated_at": "2026-06-08T13:10:45.213305340Z",
+  "creator_count": 4,
   "creators": [
     {
       "publisher_id": "dorbian",
@@ -9,6 +9,14 @@
       "username": "dorbian",
       "profile_path": "creators/dorbian/profile.json",
       "package_count": 1,
+      "tags": []
+    },
+    {
+      "publisher_id": "iferniton",
+      "display_name": "Iferniton",
+      "username": "iferniton",
+      "profile_path": "creators/iferniton/profile.json",
+      "package_count": 0,
       "tags": []
     },
     {

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "publisher_id": "iferniton",
+  "username": "iferniton",
+  "display_name": "Iferniton",
+  "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETlOfWTzheCiS1LPH7qgw3CrDV4Lwlt5MH+tKiGR42yWECKY/TJ3c5yvl6OdpuM98rmYzHUNBVEaqBilhIVRP6Q==",
+  "certificate": "-----BEGIN MCDF PUBLISHER CERTIFICATE-----\n{\n  \"schema_version\": 1,\n  \"certificate_id\": \"44f0eb4ea5dd31b20abbb43e2bc0c54d216640014ae34b7cd25981e635e59641\",\n  \"ca_id\": \"mcdf-ca-c7e1f56eadcb6ea9\",\n  \"publisher_id\": \"iferniton\",\n  \"username\": \"iferniton\",\n  \"display_name\": \"Iferniton\",\n  \"public_key\": \"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETlOfWTzheCiS1LPH7qgw3CrDV4Lwlt5MH+tKiGR42yWECKY/TJ3c5yvl6OdpuM98rmYzHUNBVEaqBilhIVRP6Q==\",\n  \"issued_at\": \"2026-06-08T13:10:41.607671048Z\",\n  \"expires_at\": \"2056-05-23T13:06:33.057757500Z\",\n  \"signature\": \"6b1dff0529f8049d97596fda7471a0e1efa64be2039278652b459532208c4c97\"\n}\n-----END MCDF PUBLISHER CERTIFICATE-----\n",
+  "status": "certified",
+  "source": "server_ca_issued_client_certificate",
+  "created_at": "2026-06-08T13:10:41.607671048Z",
+  "updated_at": "2026-06-08T13:10:41.607671048Z",
+  "notes": [
+    "Publisher certificate 44f0eb4ea5dd31b20abbb43e2bc0c54d216640014ae34b7cd25981e635e59641 was issued by archive CA mcdf-ca-c7e1f56eadcb6ea9.",
+    "Certificate expires with the archive CA at 2056-05-23T13:06:33.057757500+00:00.",
+    "The client private key remains local; the server stores the username, public key, and issued publisher certificate.",
+    "The public publisher identity is exported to the Git-backed index so packages can be attributed and verified later."
+  ]
+}
