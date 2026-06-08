@@ -1,13 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-07T19:19:16.195554355Z",
+  "generated_at": "2026-06-08T06:40:54.113757499Z",
   "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
+  "share_id": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
+  "share_code": "mcdf.thebigtree.life:23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
   "original_filename": "dorb_easter.mcdf",
   "title": "Elfoween",
   "description": "",
   "tags": [],
   "preview_image_available": true,
-  "preview_image_path": null,
+  "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
   "is_adult": false,
   "visibility": "public",
   "owner": {
