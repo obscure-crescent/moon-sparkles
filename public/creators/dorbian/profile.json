@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T06:40:54.113757499Z",
+  "generated_at": "2026-06-08T12:54:06.677613100Z",
   "publisher_id": "dorbian",
   "username": "dorbian",
   "display_name": "Dorbian",
@@ -18,10 +18,15 @@
       "title": "Elfoween",
       "preview_image_available": true,
       "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
+      "preview_crop": {
+        "x": 50.0,
+        "y": 50.0,
+        "scale": 1.0
+      },
       "package_manifest_path": "packages/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
       "tags": [],
       "is_adult": false,
-      "updated_at": "2026-06-08T06:40:54.073497156Z"
+      "updated_at": "2026-06-08T12:54:06.635529287Z"
     }
   ]
 }
