@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "publisher_id": "arte",
+  "username": "arte",
+  "display_name": "Arte",
+  "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8knVJU4t9cYn14OODd7hf7vgQMtLWi+nsdcxtQnEVOMCDBGMW1P814v/ys7Y3EHhVah00TKxqajd2Fsh2oKfZQ==",
+  "certificate": "-----BEGIN MCDF PUBLISHER CERTIFICATE-----\n{\n  \"schema_version\": 1,\n  \"certificate_id\": \"93f7b8ab5867dfaf8b13c3d905835016bb2d2771fab01c221a7556bb8b4fd90e\",\n  \"ca_id\": \"mcdf-ca-c7e1f56eadcb6ea9\",\n  \"publisher_id\": \"arte\",\n  \"username\": \"arte\",\n  \"display_name\": \"Arte\",\n  \"public_key\": \"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8knVJU4t9cYn14OODd7hf7vgQMtLWi+nsdcxtQnEVOMCDBGMW1P814v/ys7Y3EHhVah00TKxqajd2Fsh2oKfZQ==\",\n  \"issued_at\": \"2026-08-07T23:06:59.314300785Z\",\n  \"expires_at\": \"2056-05-23T13:06:33.057757500Z\",\n  \"signature\": \"01de86a2a3d8874b7edaa780f713933442181dd165f9bc25f83d33180fa107fc\"\n}\n-----END MCDF PUBLISHER CERTIFICATE-----\n",
+  "status": "certified",
+  "source": "server_ca_issued_client_certificate",
+  "created_at": "2026-08-07T23:06:59.314300785Z",
+  "updated_at": "2026-08-07T23:06:59.314300785Z",
+  "notes": [
+    "Publisher certificate 93f7b8ab5867dfaf8b13c3d905835016bb2d2771fab01c221a7556bb8b4fd90e was issued by archive CA mcdf-ca-c7e1f56eadcb6ea9.",
+    "Certificate expires with the archive CA at 2056-05-23T13:06:33.057757500+00:00.",
+    "The client private key remains local; the server stores the username, public key, and issued publisher certificate.",
+    "The public publisher identity is exported to the Git-backed index so packages can be attributed and verified later."
+  ]
+}

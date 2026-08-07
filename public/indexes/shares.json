@@ -1,8 +1,6 @@
 {
-  "generated_at": "2026-06-08T13:10:45.213305340Z",
-  "schema_version": 1,
-  "share_count": 1,
-  "shares": [
+  "generated_at": "2026-08-07T23:07:00.932311994Z",
+  "package_shares": [
     {
       "download_manifest_path": "download-manifests/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.json",
       "package_hash_blake3": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
@@ -12,5 +10,7 @@
       "share_id": "23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036",
       "title": "Elfoween"
     }
-  ]
+  ],
+  "schema_version": 1,
+  "share_count": 1
 }

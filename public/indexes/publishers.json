@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T13:10:45.213305340Z",
-  "publisher_count": 4,
+  "generated_at": "2026-08-07T23:07:00.932311994Z",
+  "publisher_count": 5,
   "publishers": [
+    {
+      "schema_version": 1,
+      "publisher_id": "arte",
+      "username": "arte",
+      "display_name": "Arte",
+      "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8knVJU4t9cYn14OODd7hf7vgQMtLWi+nsdcxtQnEVOMCDBGMW1P814v/ys7Y3EHhVah00TKxqajd2Fsh2oKfZQ==",
+      "certificate": null,
+      "status": "certified",
+      "source": "public_index_summary",
+      "created_at": "2026-08-07T23:07:00.932311994Z",
+      "updated_at": "2026-08-07T23:07:00.932311994Z",
+      "notes": [
+        "identity_path=publishers/arte.json",
+        "package_count=0"
+      ]
+    },
     {
       "schema_version": 1,
       "publisher_id": "dorbi-local",
@@ -12,8 +28,8 @@
       "certificate": null,
       "status": "active",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T13:10:45.213305340Z",
-      "updated_at": "2026-06-08T13:10:45.213305340Z",
+      "created_at": "2026-08-07T23:07:00.932311994Z",
+      "updated_at": "2026-08-07T23:07:00.932311994Z",
       "notes": [
         "identity_path=publishers/dorbi-local.json",
         "package_count=0"
@@ -28,8 +44,8 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T13:10:45.213305340Z",
-      "updated_at": "2026-06-08T13:10:45.213305340Z",
+      "created_at": "2026-08-07T23:07:00.932311994Z",
+      "updated_at": "2026-08-07T23:07:00.932311994Z",
       "notes": [
         "identity_path=publishers/dorbian.json",
         "package_count=1"
@@ -44,8 +60,8 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T13:10:45.213305340Z",
-      "updated_at": "2026-06-08T13:10:45.213305340Z",
+      "created_at": "2026-08-07T23:07:00.932311994Z",
+      "updated_at": "2026-08-07T23:07:00.932311994Z",
       "notes": [
         "identity_path=publishers/iferniton.json",
         "package_count=0"
@@ -60,8 +76,8 @@
       "certificate": null,
       "status": "uncertified",
       "source": "public_index_summary",
-      "created_at": "2026-06-08T13:10:45.213305340Z",
-      "updated_at": "2026-06-08T13:10:45.213305340Z",
+      "created_at": "2026-08-07T23:07:00.932311994Z",
+      "updated_at": "2026-08-07T23:07:00.932311994Z",
       "notes": [
         "identity_path=publishers/local-user.json",
         "package_count=0"

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T13:10:45.213305340Z",
+  "generated_at": "2026-08-07T23:07:00.932311994Z",
   "package_count": 1,
   "packages": [
     {
@@ -11,6 +11,7 @@
       "title": "Elfoween",
       "description": "is not as shown on the box",
       "tags": [],
+      "replaced_items": [],
       "preview_image_available": true,
       "preview_image_path": "previews/23/23147ff9e350eaac9bcc393c7cc94130eef4b1fd74b58d5cb527f260225af036.png",
       "preview_crop": {
@@ -20,6 +21,38 @@
       },
       "is_adult": false,
       "visibility": "public",
+      "character_use_consent": {
+        "schema_version": 2,
+        "allowed_theme_ids": [
+          "comedy",
+          "action",
+          "adventure",
+          "drama",
+          "romance",
+          "horror",
+          "fantasy",
+          "sci_fi",
+          "thriller",
+          "erotic",
+          "slice_of_life",
+          "dark_themes"
+        ],
+        "theme_labels": [
+          "Comedy",
+          "Action",
+          "Adventure",
+          "Drama",
+          "Romance",
+          "Horror",
+          "Fantasy",
+          "Sci-fi",
+          "Thriller",
+          "Erotic",
+          "Slice of life",
+          "Dark themes"
+        ],
+        "soft_enforcement": true
+      },
       "owner_display_name": "Dorbian",
       "owner_public_id": "dorbian",
       "file_count": 18,

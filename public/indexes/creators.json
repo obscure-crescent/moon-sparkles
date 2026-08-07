@@ -1,8 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T13:10:45.213305340Z",
-  "creator_count": 4,
+  "generated_at": "2026-08-07T23:07:00.932311994Z",
+  "creator_count": 5,
   "creators": [
+    {
+      "publisher_id": "arte",
+      "display_name": "Arte",
+      "username": "arte",
+      "profile_path": "creators/arte/profile.json",
+      "package_count": 0,
+      "tags": []
+    },
     {
       "publisher_id": "dorbian",
       "display_name": "Dorbian",
