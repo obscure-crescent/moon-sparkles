@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T23:07:00.932311994Z",
-  "creator_count": 5,
+  "generated_at": "2026-08-11T10:50:34.433848132Z",
+  "creator_count": 6,
   "creators": [
     {
       "publisher_id": "arte",
@@ -32,6 +32,14 @@
       "display_name": "Local User",
       "username": "local-user",
       "profile_path": "creators/local-user/profile.json",
+      "package_count": 0,
+      "tags": []
+    },
+    {
+      "publisher_id": "sdvx",
+      "display_name": "SDVX",
+      "username": "sdvx",
+      "profile_path": "creators/sdvx/profile.json",
       "package_count": 0,
       "tags": []
     },

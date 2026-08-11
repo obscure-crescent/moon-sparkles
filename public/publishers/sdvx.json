@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "publisher_id": "sdvx",
+  "username": "sdvx",
+  "display_name": "SDVX",
+  "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Girb4Wbdx4DtUupuIB4MycDPpXy56Bm4Q7GrxEzO9ll4Y6/o4fg57MjOvHG6E5YcCxfVrqbieyBK/Y2yxbLSw==",
+  "certificate": "-----BEGIN MCDF PUBLISHER CERTIFICATE-----\n{\n  \"schema_version\": 1,\n  \"certificate_id\": \"e67b126164871e9b22e1ac6833c144fc2e12a533313f7e6aa8571ebee5e53324\",\n  \"ca_id\": \"mcdf-ca-c7e1f56eadcb6ea9\",\n  \"publisher_id\": \"sdvx\",\n  \"username\": \"sdvx\",\n  \"display_name\": \"SDVX\",\n  \"public_key\": \"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Girb4Wbdx4DtUupuIB4MycDPpXy56Bm4Q7GrxEzO9ll4Y6/o4fg57MjOvHG6E5YcCxfVrqbieyBK/Y2yxbLSw==\",\n  \"issued_at\": \"2026-08-11T10:50:32.785159636Z\",\n  \"expires_at\": \"2056-05-23T13:06:33.057757500Z\",\n  \"signature\": \"c8bc3f077228fdb5799765ca227ffcda2e768d5ffba1d63307b03c6b8c955590\"\n}\n-----END MCDF PUBLISHER CERTIFICATE-----\n",
+  "status": "certified",
+  "source": "server_ca_issued_client_certificate",
+  "created_at": "2026-08-11T10:50:32.785159636Z",
+  "updated_at": "2026-08-11T10:50:32.785159636Z",
+  "notes": [
+    "Publisher certificate e67b126164871e9b22e1ac6833c144fc2e12a533313f7e6aa8571ebee5e53324 was issued by archive CA mcdf-ca-c7e1f56eadcb6ea9.",
+    "Certificate expires with the archive CA at 2056-05-23T13:06:33.057757500+00:00.",
+    "The client private key remains local; the server stores the username, public key, and issued publisher certificate.",
+    "The public publisher identity is exported to the Git-backed index so packages can be attributed and verified later."
+  ]
+}

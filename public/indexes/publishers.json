@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T23:07:00.932311994Z",
-  "publisher_count": 5,
+  "generated_at": "2026-08-11T10:50:34.433848132Z",
+  "publisher_count": 6,
   "publishers": [
     {
       "schema_version": 1,
@@ -12,8 +12,8 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-08-07T23:07:00.932311994Z",
-      "updated_at": "2026-08-07T23:07:00.932311994Z",
+      "created_at": "2026-08-11T10:50:34.433848132Z",
+      "updated_at": "2026-08-11T10:50:34.433848132Z",
       "notes": [
         "identity_path=publishers/arte.json",
         "package_count=0"
@@ -28,8 +28,8 @@
       "certificate": null,
       "status": "active",
       "source": "public_index_summary",
-      "created_at": "2026-08-07T23:07:00.932311994Z",
-      "updated_at": "2026-08-07T23:07:00.932311994Z",
+      "created_at": "2026-08-11T10:50:34.433848132Z",
+      "updated_at": "2026-08-11T10:50:34.433848132Z",
       "notes": [
         "identity_path=publishers/dorbi-local.json",
         "package_count=0"
@@ -44,8 +44,8 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-08-07T23:07:00.932311994Z",
-      "updated_at": "2026-08-07T23:07:00.932311994Z",
+      "created_at": "2026-08-11T10:50:34.433848132Z",
+      "updated_at": "2026-08-11T10:50:34.433848132Z",
       "notes": [
         "identity_path=publishers/dorbian.json",
         "package_count=1"
@@ -60,8 +60,8 @@
       "certificate": null,
       "status": "certified",
       "source": "public_index_summary",
-      "created_at": "2026-08-07T23:07:00.932311994Z",
-      "updated_at": "2026-08-07T23:07:00.932311994Z",
+      "created_at": "2026-08-11T10:50:34.433848132Z",
+      "updated_at": "2026-08-11T10:50:34.433848132Z",
       "notes": [
         "identity_path=publishers/iferniton.json",
         "package_count=0"
@@ -76,10 +76,26 @@
       "certificate": null,
       "status": "uncertified",
       "source": "public_index_summary",
-      "created_at": "2026-08-07T23:07:00.932311994Z",
-      "updated_at": "2026-08-07T23:07:00.932311994Z",
+      "created_at": "2026-08-11T10:50:34.433848132Z",
+      "updated_at": "2026-08-11T10:50:34.433848132Z",
       "notes": [
         "identity_path=publishers/local-user.json",
+        "package_count=0"
+      ]
+    },
+    {
+      "schema_version": 1,
+      "publisher_id": "sdvx",
+      "username": "sdvx",
+      "display_name": "SDVX",
+      "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Girb4Wbdx4DtUupuIB4MycDPpXy56Bm4Q7GrxEzO9ll4Y6/o4fg57MjOvHG6E5YcCxfVrqbieyBK/Y2yxbLSw==",
+      "certificate": null,
+      "status": "certified",
+      "source": "public_index_summary",
+      "created_at": "2026-08-11T10:50:34.433848132Z",
+      "updated_at": "2026-08-11T10:50:34.433848132Z",
+      "notes": [
+        "identity_path=publishers/sdvx.json",
         "package_count=0"
       ]
     }
