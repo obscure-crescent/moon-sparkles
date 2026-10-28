@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "publisher_id": "zgman",
+  "username": "zgman",
+  "display_name": "ZGman",
+  "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETT7MuhPBU1yrA45fZVQQHPGmWLv3ggxkTyNunK9r8rk/24IeRyeIC3om1xWATRDn6ppJXN9fqd8eAL+L3iSB7Q==",
+  "certificate": "-----BEGIN MCDF PUBLISHER CERTIFICATE-----\n{\n  \"schema_version\": 1,\n  \"certificate_id\": \"1755950ab79d994be8459e26020aca1871ce357c51b8e9b9f65c5b9bcdfaf42d\",\n  \"ca_id\": \"mcdf-ca-c7e1f56eadcb6ea9\",\n  \"publisher_id\": \"zgman\",\n  \"username\": \"zgman\",\n  \"display_name\": \"ZGman\",\n  \"public_key\": \"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETT7MuhPBU1yrA45fZVQQHPGmWLv3ggxkTyNunK9r8rk/24IeRyeIC3om1xWATRDn6ppJXN9fqd8eAL+L3iSB7Q==\",\n  \"issued_at\": \"2026-10-28T00:38:14.668746221Z\",\n  \"expires_at\": \"2056-05-23T13:06:33.057757500Z\",\n  \"signature\": \"345269fee3c16a0b6c30b93ba2738d0ed376e4530076e0ab712e42ab9b8563cd\"\n}\n-----END MCDF PUBLISHER CERTIFICATE-----\n",
+  "status": "certified",
+  "source": "server_ca_issued_client_certificate",
+  "created_at": "2026-10-28T00:38:14.668746221Z",
+  "updated_at": "2026-10-28T00:38:14.668746221Z",
+  "notes": [
+    "Publisher certificate 1755950ab79d994be8459e26020aca1871ce357c51b8e9b9f65c5b9bcdfaf42d was issued by archive CA mcdf-ca-c7e1f56eadcb6ea9.",
+    "Certificate expires with the archive CA at 2056-05-23T13:06:33.057757500+00:00.",
+    "The client private key remains local; the server stores the username, public key, and issued publisher certificate.",
+    "The public publisher identity is exported to the Git-backed index so packages can be attributed and verified later."
+  ]
+}
