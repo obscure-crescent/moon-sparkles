@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T00:38:16.393425001Z",
-  "creator_count": 7,
+  "generated_at": "2026-11-11T01:15:59.987005572Z",
+  "creator_count": 8,
   "creators": [
     {
       "publisher_id": "arte",
@@ -40,6 +40,14 @@
       "display_name": "SDVX",
       "username": "sdvx",
       "profile_path": "creators/sdvx/profile.json",
+      "package_count": 0,
+      "tags": []
+    },
+    {
+      "publisher_id": "tharinxsf",
+      "display_name": "TharinXsf",
+      "username": "tharinxsf",
+      "profile_path": "creators/tharinxsf/profile.json",
       "package_count": 0,
       "tags": []
     },

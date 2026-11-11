@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "publisher_id": "tharinxsf",
+  "username": "tharinxsf",
+  "display_name": "TharinXsf",
+  "public_key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEN/Q2x8K6sB8jRc1141XtSMvgk9BkWHn05Ga1v9IqXSKHqLE03S7e7+pasbg3nfXSirtq/zaQ1mPq403Wj7vtAw==",
+  "certificate": "-----BEGIN MCDF PUBLISHER CERTIFICATE-----\n{\n  \"schema_version\": 1,\n  \"certificate_id\": \"c0cddd9dbaca123c69b424588dd6d649476ae1796eb0978d9b6bdf6f087d6f7d\",\n  \"ca_id\": \"mcdf-ca-c7e1f56eadcb6ea9\",\n  \"publisher_id\": \"tharinxsf\",\n  \"username\": \"tharinxsf\",\n  \"display_name\": \"TharinXsf\",\n  \"public_key\": \"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEN/Q2x8K6sB8jRc1141XtSMvgk9BkWHn05Ga1v9IqXSKHqLE03S7e7+pasbg3nfXSirtq/zaQ1mPq403Wj7vtAw==\",\n  \"issued_at\": \"2026-11-11T01:15:58.248674704Z\",\n  \"expires_at\": \"2056-05-23T13:06:33.057757500Z\",\n  \"signature\": \"8adfa595e08cef5076179289787636a37f7ec5a7d1a9998935cce37dbef210c6\"\n}\n-----END MCDF PUBLISHER CERTIFICATE-----\n",
+  "status": "certified",
+  "source": "server_ca_issued_client_certificate",
+  "created_at": "2026-11-11T01:15:58.248674704Z",
+  "updated_at": "2026-11-11T01:15:58.248674704Z",
+  "notes": [
+    "Publisher certificate c0cddd9dbaca123c69b424588dd6d649476ae1796eb0978d9b6bdf6f087d6f7d was issued by archive CA mcdf-ca-c7e1f56eadcb6ea9.",
+    "Certificate expires with the archive CA at 2056-05-23T13:06:33.057757500+00:00.",
+    "The client private key remains local; the server stores the username, public key, and issued publisher certificate.",
+    "The public publisher identity is exported to the Git-backed index so packages can be attributed and verified later."
+  ]
+}
